@@ -24,6 +24,8 @@ import java.io.InputStream;
  * Created by Pants on 2016/4/20.
  */
 public class AudioView extends View {
+    // fuck gradle!
+
 
     private byte[] bytes;
     private Paint paint = new Paint();
